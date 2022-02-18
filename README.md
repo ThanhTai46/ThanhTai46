@@ -8,12 +8,7 @@
 
 ## Web Back-end
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
-## Other
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
-## ✏️ My Blog
-
-I love writting what I've done and I've learned along doing my projects - You can find my blogs on here: <a href="https://danieltruong.hashnode.dev"> Daniel Truong's blog </a>
 
 
 ## 📈 Github Stats
